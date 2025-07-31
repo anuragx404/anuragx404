@@ -13,7 +13,7 @@ I'm Anurag Negi, a Computer Science undergraduate at NIT Hamirpur with a strong 
 ---
 
 ### Education  
-2022 – Present  
+2022 – 2026
 **B.Tech., Computer Science and Engineering**  
 National Institute of Technology, Hamirpur  
 
