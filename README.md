@@ -1,8 +1,9 @@
-Anurag Negi
+Anurag Negi  
 National Institute of Technology, Hamirpur  
 
 Hamirpur, Himachal Pradesh, India  
-Email: anuragnegi0001@gmail.com   
+Email: anuragnegi0001@gmail.com  
+GitHub: [anuragx404](https://github.com/anuragx404)  
 LinkedIn: [anurag-negix404](https://www.linkedin.com/in/anurag-negix404/)  
 
 ---
@@ -13,7 +14,7 @@ I'm Anurag Negi, a Computer Science undergraduate at NIT Hamirpur with a strong 
 ---
 
 ### Education  
-2022 – 2026 
+2022 – 2026  
 **B.Tech., Computer Science and Engineering**  
 National Institute of Technology, Hamirpur  
 
