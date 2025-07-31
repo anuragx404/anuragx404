@@ -1,15 +1,27 @@
-# 💫 About Me:
-Hi, I'm Anurag Negi, a Computer Science undergraduate at NIT Hamirpur, passionate about building intelligent systems and visually engaging experiences. I enjoy working on machine learning, data science, and computer vision projects, and I love blending creativity with technology through video editing and motion graphics.<br><br>I’ve developed real-world solutions like a face recognition attendance system and a movie recommender, and I’ve also led design efforts as the Core Coordinator of Pixonoids, my college’s media team. I'm always exploring new tools, from Python and Streamlit to After Effects and Blender, to bring ideas to life.<br><br>🔍 Currently exploring AI/ML, data visualization, and interactive application development.
+Anurag Negi
+National Institute of Technology, Hamirpur  
 
+Hamirpur, Himachal Pradesh, India  
+Email: anuragnegi0001@gmail.com   
+LinkedIn: [anurag-negix404](https://www.linkedin.com/in/anurag-negix404/)  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuragx404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-negix404/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragnegi0001@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anuragx404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anuragx404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragx404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### About Me  
+I'm Anurag Negi, a Computer Science undergraduate at NIT Hamirpur with a strong interest in building intelligent and creative systems. I enjoy combining technology with design, working on data-driven applications, computer vision projects, and high-quality visual content. I'm continuously learning and exploring new tools and techniques to solve real-world problems and tell impactful stories through code and visuals.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### Education  
+2022 – Present  
+**B.Tech., Computer Science and Engineering**  
+National Institute of Technology, Hamirpur  
+
+---
+
+### Skills  
+**Programming Languages:** C++, Python, MySQL  
+**Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, OpenCV, face_recognition  
+**Frameworks & Tools:** Streamlit, Flask, Git, VS Code, PyCharm, Jupyter Notebook  
+**BI & Visualization:** Tableau, Power BI  
+**Creative Tools:** Adobe After Effects, Adobe Photoshop, Blender, DaVinci Resolve  
